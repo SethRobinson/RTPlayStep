@@ -1,0 +1,3 @@
+max_energy|600
+energy_timer|1000
+energy_per_move|7
