@@ -1,6 +1,8 @@
 # RTPlayStep
 An app for the Raspberry Pi that uses GPIO to monitor an exercise device to control annoying visual things on the screen meant to be chroma-keyed over live HDMI video signals.
 
+**Note:**  Check out the [PlayStep Mini](https://github.com/SethRobinson/PlayStepMini), it's a simpler design with a custom pcb.
+
 Blog post with more info and movie of how it works: https://www.codedojo.com/?p=2393
 
 Note: I didn't include the sound effects for this project as the licenses probably don't cover something like github, so find your own!
